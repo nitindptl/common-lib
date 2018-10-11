@@ -1,0 +1,13 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+/**
+ * Generated bundle index. Do not edit.
+ */
+export { CommonLibModule, CommonMaterialModule, HttpService, GlobalErrorHandlerService } from './public_api';
+export { DataGridComponent as ɵc } from './lib/data-grid/data-grid.component';
+export { DataTableComponent as ɵa } from './lib/data-table/data-table.component';
+export { PagerComponent as ɵb } from './lib/data-table/pager.component';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiY29tbW9uLWxpYi5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2NvbW1vbi1saWIvIiwic291cmNlcyI6WyJjb21tb24tbGliLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSw4RkFBYyxjQUFjLENBQUM7QUFFN0IsT0FBTyxFQUFDLGlCQUFpQixJQUFJLEVBQUUsRUFBQyxNQUFNLHFDQUFxQyxDQUFDO0FBQzVFLE9BQU8sRUFBQyxrQkFBa0IsSUFBSSxFQUFFLEVBQUMsTUFBTSx1Q0FBdUMsQ0FBQztBQUMvRSxPQUFPLEVBQUMsY0FBYyxJQUFJLEVBQUUsRUFBQyxNQUFNLGtDQUFrQyxDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiLyoqXG4gKiBHZW5lcmF0ZWQgYnVuZGxlIGluZGV4LiBEbyBub3QgZWRpdC5cbiAqL1xuXG5leHBvcnQgKiBmcm9tICcuL3B1YmxpY19hcGknO1xuXG5leHBvcnQge0RhdGFHcmlkQ29tcG9uZW50IGFzIMm1Y30gZnJvbSAnLi9saWIvZGF0YS1ncmlkL2RhdGEtZ3JpZC5jb21wb25lbnQnO1xuZXhwb3J0IHtEYXRhVGFibGVDb21wb25lbnQgYXMgybVhfSBmcm9tICcuL2xpYi9kYXRhLXRhYmxlL2RhdGEtdGFibGUuY29tcG9uZW50JztcbmV4cG9ydCB7UGFnZXJDb21wb25lbnQgYXMgybVifSBmcm9tICcuL2xpYi9kYXRhLXRhYmxlL3BhZ2VyLmNvbXBvbmVudCc7Il19
